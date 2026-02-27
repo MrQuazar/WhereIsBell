@@ -154,10 +154,6 @@ text - End-state success message
 
 ---
 
-**\[INSERT IMAGE: UI Blueprint Graph Screenshot Here\]**
-
----
-
 # Gameplay Screenshots
 
 ---
